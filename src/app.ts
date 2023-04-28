@@ -1,4 +1,8 @@
 
 console.log('Template app is running');
 
-export {};
+function myFunc() {
+  return 'Hello';
+}
+
+export { myFunc };
