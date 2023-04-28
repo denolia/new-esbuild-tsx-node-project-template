@@ -1,7 +1,7 @@
 import { myFunc } from "@app/app";
 
-describe('True', () => {
-  test('True', () => {
+describe("True", () => {
+  test("True", () => {
     const mockFn = jest.fn();
     mockFn();
     myFunc();

@@ -1,8 +1,7 @@
-
-console.log('Template app is running');
+console.log("Template app is running");
 
 function myFunc() {
-  return 'Hello';
+  return "Hello";
 }
 
 export { myFunc };
